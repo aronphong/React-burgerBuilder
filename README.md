@@ -1,3 +1,13 @@
+# React - Burger Builder App
+
+This project was made using React and follows this [Udemy Course](https://www.udemy.com/course-dashboard-redirect/?course_id=1362070)
+
+## Things I learned
+* React Fundamentals (base features, dynamic content rendering, binding, component logic, styling)
+* Handling state / stateless components
+* Using class based and functional components
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
